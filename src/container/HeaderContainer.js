@@ -3,13 +3,11 @@ import { withRouter } from 'react-router';
 import HeaderComponent from '../subcomponent/Header';
 
 const mapDispatchToProps = (dispatch) => ({
-    
-
+  
 });
 
 
 const mapStateToProps = (state) => ({
-    
 
 });
 

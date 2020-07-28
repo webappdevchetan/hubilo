@@ -5,7 +5,7 @@
 
 ### Setup
 
-- Copy .env.example to .env
+- Copy ```.env.example``` to ```.env```
 - Run Below Command
 ```shell
 $ npm install

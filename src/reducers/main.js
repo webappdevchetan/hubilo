@@ -2,7 +2,7 @@ import * as types from '../actions/actionTypes';
 
 const initialState = {
   movie : [],
-  myList: [ ],
+  myList: [],
 };
 
 const main = (state = initialState, action) => {
